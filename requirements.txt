@@ -1,0 +1,13 @@
+scipy
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+plotly
+jupyter
+jupyterlab
+ipywidgets
+sympy
+xarray
+gprof2dot
